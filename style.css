@@ -34,7 +34,7 @@ ol{
 }
 
 :root{
-  --primary-color:#a82c48;
+  --primary-color: rgb(17, 92, 100);
     --secondary-color:#43121d;
   --third-color:#f98169;
   --white-color:#fff;
@@ -210,7 +210,7 @@ font-size: 0.9375rem;
 }
 
  .nav-link:hover{
-  color: rgb(234, 66, 83) !important;
+  color: rgb(14, 194, 214) !important;
    
 }
 
@@ -387,7 +387,7 @@ margin-left: 0.625rem;
       width: 15px !important;
     height: 15px !important;
     border-radius: 50%;
-    background-color: #d8a5ab !important;
+    background-color: #279f9f !important;
     opacity: 1 !important;
     margin: 0 8px !important;
 }
