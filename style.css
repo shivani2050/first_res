@@ -254,7 +254,8 @@ margin-left: 0.625rem;
   color: var(--white-color);
   text-transform: uppercase;
 }
-.counter-section span,h2 {
+.counter-section span,
+.counter-section h2  {
   color: white !important;
 }
 
